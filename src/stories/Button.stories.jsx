@@ -32,6 +32,12 @@ Large.args = {
   size: 'large',
   label: 'Button',
 };
+export const GreenButton = Template.bind({});
+GreenButton.args = {
+  size: 'medium',
+  backgroundColor: 'green',
+  label: 'Green button'
+};
 
 export const Small = Template.bind({});
 Small.args = {
