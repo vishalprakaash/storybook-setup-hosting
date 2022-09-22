@@ -46,5 +46,8 @@
     "@storybook/testing-library": "^0.0.13",
     "babel-loader": "^8.2.5",
     "storybook-css-modules-preset": "^1.1.1"
+  },
+  "optionalDependencies": {
+    "fsevents": "*"
   }
 }
